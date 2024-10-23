@@ -1,0 +1,1 @@
+SELECT * FROM `daui-storage.0_shobhit.30_day_sales` LIMIT 1000
