@@ -1,1 +1,4 @@
-test
+SELECT
+  12;
+SELECT
+  34;
