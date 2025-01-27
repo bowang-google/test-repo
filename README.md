@@ -2,4 +2,4 @@
 
 ## description
 
-this is a test repo xyz
+this is a test repo
