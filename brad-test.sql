@@ -1,1 +1,1 @@
-test
+SELECT 42
