@@ -10,4 +10,4 @@ test #new change new change
 
 # newer change
 
-# this will be a conflic
+# this will be a conflics
