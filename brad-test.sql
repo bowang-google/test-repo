@@ -10,4 +10,4 @@ test #new change new change
 
 # newer change
 
-#conflicts test
+# this line is now a conflict
