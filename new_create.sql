@@ -1,4 +1,5 @@
 # new query
 select 12;
-# change from local user
-select 34;
+# resolving conflicts
+select 345678;
+
